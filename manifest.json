@@ -1,6 +1,6 @@
 {
-  "name": "TepaStore",
-  "short_name": "TepaStore",
+  "name": "TepaClone",
+  "short_name": "TepaClone",
   "description": "TepaClone - крутая игра! Здесь вы можете скрещивать котов и получать новых персонажей",
   "start_url": "./index.html",
   "display": "standalone",
